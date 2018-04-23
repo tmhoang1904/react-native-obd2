@@ -5,7 +5,7 @@ React-native OBD-II reader designed to connect with Bluetooth Elm327 OBD reader.
 Run below link on your project root folder.
 ````
 $ npm install react-native-obd2 --save
-$ react-native link
+$ react-native link react-native-obd2
 ````
 
 # APIs
